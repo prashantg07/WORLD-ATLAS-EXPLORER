@@ -1,12 +1,34 @@
-# React + Vite
+# 🌍 WORLD ATLAS EXPLORER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **responsive, multi-page React 19 website** powered by dynamic routing, live search filters, and API data fetching using Axios. Explore countries, capitals, populations, and fascinating facts in an interactive way.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ React 19 with modern hooks
+- ✅ Responsive design (mobile-first)
+- ✅ React Router for multi-page navigation
+- ✅ Axios for real-time API requests
+- ✅ Dynamic search & country filter
+- ✅ Clean UI with hamburger menu
+- ✅ Reusable component structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+## 🔧 Installation
+
+1. **Clone the repo:**
+
+```bash
+git clone https://github.com/prashantg07/WORLD-ATLAS-EXPLORER.git
+
+cd WORLD-ATLAS-EXPLORER
+
+npm install
+
+npm run dev
+
+
+
