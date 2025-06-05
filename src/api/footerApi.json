@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "MdPlace",
+        "title": "Find us",
+        "details": "New Delhi"
+    },
+    {
+        "icon": "IoCallSharp",
+        "title": "Call us",
+        "details": "6202736732"
+    },
+    {
+        "icon": "TbMailPlus",
+        "title": "Mail us",
+        "details": "prashantghq@gmail.com"
+    }
+]
